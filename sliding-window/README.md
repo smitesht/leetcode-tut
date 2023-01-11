@@ -3,11 +3,15 @@
 ## 1. Find maximum (or minimum) sum of a subarray of size k
 
 Description:
+
 Input : arr[] = {100, 200, 300, 400}, k = 2
+
 Output : 700
 
 Input : arr[] = {1, 4, 2, 10, 23, 3, 1, 0, 20}, k = 4
+
 Output : 39
+
 Explanaton: We get maximum sum by adding subarray {4, 2, 10, 23} of size 4.
 
 ```
